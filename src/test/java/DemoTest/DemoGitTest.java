@@ -8,6 +8,7 @@ public class DemoGitTest {
 	public void addtest()
 	{
 		System.out.println("Git Practice");
+		System.out.println("sub");
 	}
 
 }
